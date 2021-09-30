@@ -1,0 +1,1 @@
+This lesson offered by theodinproject.com called " recipes " will serve to work out in coding an HTML page with various tags and elements.
